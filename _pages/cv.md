@@ -1,11 +1,10 @@
 ---
-layout: cv
+layout: page
+title: CV
 permalink: /cv/
-title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+cv_pdf: Redwan_Khan_Resume.pdf
 ---
+
+You can find my CV [here](https://drive.google.com/file/d/1HmTliquqqBMj2jvuj32r7hMCxVNBs-gY/view?usp=sharing){:target="\_blank"}.
