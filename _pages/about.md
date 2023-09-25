@@ -6,7 +6,7 @@ subtitle: Machine Learning and Systems Researcher, PhD Candidate
 
 profile:
   align: right
-  image: prof_pic.png
+  image: redwankhan.png
   image_circular: false # crops the image to make it circular
   address: >
     <p><a href="mailto:redwan@vt.edu"><i class="fas fa-envelope"></i> redwan@vt.edu</a></p>
