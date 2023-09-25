@@ -25,7 +25,7 @@ My research spans across two broad categories---**Sys4ML**, i.e., designing bett
 
 Currently I am working on the following projects that targets several ML domains---Distributed Deep Learning (DDL), Large Language Models(LLMs), and Federated Learning(FL):
 
-(1) Building novel caching policies and hybrid storage systems for improving training performance of large-scale DDL workloads. 
+(1) Building novel data sampling, caching policies, and hybrid storage systems for improving training performance of large-scale DDL workloads. 
 (2) Developing intelligent procedures for efficient scheduling and resource utilization of DDL/LLM job training/inference.
 (3) Constructing novel mechanisms for client scheduling and sampling in privacy-aware high-performing FL workloads.
 
