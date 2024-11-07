@@ -18,12 +18,20 @@ nav_order: 5
     
     <ul>
         <li>
-            <strong>Building bridges between ML workloads and System Resources.</strong>
+            <strong>Achieveing Fairness and Performance while Serving LLMs Amid Diverse Applications.</strong>
+            <em>Summer 2024</em><br>
+            <span>Research Intern, <a href="https://www.microsoft.com/en-us/research/group/m365-research/">AIOps and Efficient AI at Microsoft</a></span><br>
+            <span>Advisor: <a href="https://www.microsoft.com/en-us/research/people/ankurmallick/">Dr. Ankur Mallick</a> and <a href="https://www.microsoft.com/en-us/research/people/aparayil/">Dr. Anjaly Parayil</a></span><br>
+            <p>
+                Developed an application-characteristic-aware request throttling mechanism combined with a weighted service counter-based scheduling technique to mitigate abusive behaviors and promote fairness in Microsoft's CoPilot LLM serving platform, improving the experience for millions of users.
+            </p>
+        </li>
+        <li>
+            <strong>Workload characteristic-aware ML Systems.</strong>
             <em>Fall 2020 - Present</em><br>
             <span>Ph.D. Thesis Research, Advisor: <a href="https://people.cs.vt.edu/butta/">Dr. Ali R Butt</a></span><br>
             <p>
-                Current systems often lead to wastage of resources during running DDL/FL/LLM workloads as those have not been designed to be catered to characteristics specific to these workloads.
-                This project aims to design improved systems and algorithms for boosting training/inference performance.
+                Existing platforms frequently waste resources when handling DDL, FL, and LLM workloads, as they lack optimization for the unique demands of these tasks. My thesis aims to infuse intelligence into these systems to maximize quality, efficiency, autonomy, and adaptability with minimal human intervention. Additionally, it focuses on enriching user experience and satisfaction in cloud services through AI-driven insights, while integrating AI/ML across the software development lifecycle to boost productivity and streamline processes end-to-end.
             </p>
         </li>
 
