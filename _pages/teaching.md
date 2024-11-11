@@ -92,7 +92,7 @@ nav_order: 5
             <span>Teaching Assistant, Virginia Tech</span><br>
             Intermediate course in Computing for CS majors.<br>
             Responsibilities: Teaching, Creating Course content, Setting lab servers, TA coordination<br>
-            Instructor: William McQuain. Course enrollment: ~350 students.
+            Instructor: <a href="https://people.cs.vt.edu/xunj/Home.html">Dr. Xun Jian</a>. Course enrollment: ~350 students.
         </li>
 
         <li>
